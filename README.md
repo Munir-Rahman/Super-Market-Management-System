@@ -8,7 +8,7 @@ Users can **add**, **edit**, **delete**, and **search** for products. It also in
 
 ## 📸 Screenshot
 
-![App Screenshot](./img/product-app-screenshot.png)
+![App Screenshot](./img/web_image.png)
 
 ---
 
